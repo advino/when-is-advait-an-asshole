@@ -1,0 +1,51 @@
+html, body {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #e5d70d;
+}
+
+main {
+  display: flex;
+  width: 90%;
+  height: 100%;
+  padding: 10px;
+  margin: auto;
+  align-items: center;
+}
+
+#title {
+  position: fixed;
+  margin: 0;
+  top: 20px;
+  left: 20px;
+  font-size: 22px;
+  font-family: 'Nanum Gothic', sans-serif;
+  font-weight: bold;
+}
+
+#state {
+  font-size: 30px;
+  margin-left: 60px;
+  font-family: 'Nanum Gothic', sans-serif;
+  font-weight: normal;
+  font-kerning: -10px;
+  vertical-align: top;
+}
+
+#status {
+  margin-top: 10px;
+  margin-left: 60px;
+  font-size: 56px;
+  font-family: 'Libre Baskerville', serif;
+  font-weight: normal;
+  vertical-align: top;
+}
+
+#date {
+  margin-top: 10px;
+  margin-left: 60px;
+  font-family: 'Nanum Gothic', sans-serif;
+  font-weight: normal;
+}

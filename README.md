@@ -5,3 +5,6 @@ An addition to the Browsing Browser Extension Suite. A key logger that performs 
 The purpose of the project is to examine how ML algorithms can add false authority on the nature of all my textual interactions on the web. In an era where internet artifacts are a common form of leverage, it is also a chance to build out a archive of posts each evaluated by a supposedly "objective" entity.
 
 ![Demo Image](Demo_Image.png)
+Example of a non-asshole statement
+![Demo Image](Demo_Image_Negative.png)
+Example of an asshole statement
